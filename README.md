@@ -2,7 +2,7 @@
   <h3>Hi there, I'm Marino! 👋</h3>
 </div>
 
-<br>
+
 
 ## About Me 🚀
 
