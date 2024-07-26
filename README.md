@@ -41,10 +41,8 @@ I'm a passionate **Student Developer** currently focusing on **Multiplatform App
 ## Get in Touch 📬
 
 <div align="center">
-    <a href="mailto:marinolb92@gmail.com">
-        <img src="https://img.shields.io/badge/marinolb92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/marinolb/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/marinolb92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 0 10px;" />
+    <a href="https://www.linkedin.com/in/marinolb/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px;" />
     </a>
 </div>
